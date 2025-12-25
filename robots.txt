@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://maicogonglangg-b4cxdhenf5ghdubh.uksouth-01.azurewebsites.net/sitemap.xml
